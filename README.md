@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm just an ordinary gamer who wants to learn Java, and I.T skills. I am already really skilled with the computer, but wish to learn more and more! I know some Python, and can code in HTML and CSS. Not very skilled in JavaScript lol. I usally play Minecraft, COD, and Half-Life.
+
+
