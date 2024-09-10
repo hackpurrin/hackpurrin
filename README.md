@@ -41,7 +41,7 @@ I usually play Minecraft and Half-Life but I am explorative and open with my gam
 
 ### What are you listening to rn?
 
-()[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+<a>https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=yhqxs1v6x0ew63x7xhzwsr78d&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)<a>
 
 ### Contact?
 
