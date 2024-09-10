@@ -40,7 +40,7 @@ I usually play Minecraft and Half-Life but I am explorative and open with my gam
 ![:name](https://count.getloli.com/get/@jackpurrin?theme=rule34)
 
 ### What are you listening to rn?
-
+</br>
   <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br>
 ### Contact?
 
