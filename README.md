@@ -42,6 +42,11 @@ I usually play Minecraft and Half-Life but I am explorative and open with my gam
 ### What are you listening to rn?
 </br>
   <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br>
+
+### Stats
+
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hackpurrin)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### Contact?
 
 If you need to contact me, just go to my website @ [jackpurrin.me](https://jackpurrin.me/)
