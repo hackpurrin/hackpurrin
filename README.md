@@ -43,6 +43,10 @@ I usually play Minecraft and Half-Life but I am explorative and open with my gam
 
   [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hackpurrin)](https://github.com/LordDashMe/github-contribution-stats/)
 
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jackpurrin/30-nites-of-code)  
+  ![@jackpurrin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jackpurrin)
+  
 ### Contact?
 
 If you need to contact me, just go to my website @ [jackpurrin.me](https://jackpurrin.me/)
